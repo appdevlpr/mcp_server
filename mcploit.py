@@ -1,5 +1,5 @@
 from fastmcp import FastMCP
-import msfrpc
+from pymetasploit3.msfrpc import MsfRpcClient  # Import the correct client
 from typing import Dict, Any
 
 mcp = FastMCP("Advanced Metasploit Server")

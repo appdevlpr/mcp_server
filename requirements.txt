@@ -1,0 +1,4 @@
+fastmcp
+pydantic
+pymetasploit3
+
